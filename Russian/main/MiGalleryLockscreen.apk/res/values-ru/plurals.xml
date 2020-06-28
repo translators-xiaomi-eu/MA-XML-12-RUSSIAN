@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="article_num">
         <item quantity="other">%d статей</item>
@@ -57,5 +57,5 @@
         <item quantity="one">%d изображение</item>
         <item quantity="few">%d изображения</item>
         <item quantity="many">%d изображений</item>
-    </plurals>    
+    </plurals>
 </resources>

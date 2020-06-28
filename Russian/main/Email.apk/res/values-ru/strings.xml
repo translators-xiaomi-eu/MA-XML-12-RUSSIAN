@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="SMTP_independent_verification_text">SMTP верификация</string>
     <string name="SMTP_password_text">Пароль</string>
@@ -925,7 +925,7 @@
     <string name="policy_text_truncation">Ограничить размер сообщения</string>
     <string name="pop3_name">Почта (POP3)</string>
     <string name="preference_eas_tips">Нажмите \"Активировать\" для настройки почтового сервера.</string>
-    <string name="preference_imap_tips" />
+    <string name="preference_imap_tips"/>
     <string name="preference_pop_tips">При использовании POP3 вложения будут загружаться автоматически. Это может повысить расход трафика.</string>
     <string name="preference_sender_image_description">Отображать иконки контактов рядом с именем во \"Входящих\"</string>
     <string name="preference_sender_image_title">Иконки контактов</string>
@@ -1238,10 +1238,10 @@
     <string name="user_privacy_settings_summary">Мы будем использовать ваш Android ID (зашифрованный как ваш уникальный идентификатор пользователя с помощью MI Mail) и журнал операций. Вы можете в любое время отозвать свое согласие в настройках конфиденциальности пользователя.</string>
     <string name="user_privacy_settings_title">Напоминание о конфиденциальности MI Mail</string>
     <string name="validation_failed_prompt">Невозможно подтвердить аккаунт, проверьте настройки сервера %s</string>
-    <string name="veiled_address" />
-    <string name="veiled_alternate_text" />
-    <string name="veiled_alternate_text_unknown_person" />
-    <string name="veiled_summary_unknown_person" />
+    <string name="veiled_address"/>
+    <string name="veiled_alternate_text"/>
+    <string name="veiled_alternate_text_unknown_person"/>
+    <string name="veiled_summary_unknown_person"/>
     <string name="verify_code">Код подтверждения</string>
     <string name="version_string">Версия: %s</string>
     <string name="via_domain">через %1$s</string>

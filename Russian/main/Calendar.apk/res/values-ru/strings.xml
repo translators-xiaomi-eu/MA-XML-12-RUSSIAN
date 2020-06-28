@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -93,7 +93,7 @@
     <string name="birthday_notification_text_today">Не забудьте поздравить!</string>
     <string name="birthday_notification_title_days_later">%2$s у %1$s</string>
     <string name="birthday_notification_title_today">%3$s у %1$s</string>
-    <string name="birthday_notification_type_term_lunar" />
+    <string name="birthday_notification_type_term_lunar"/>
     <string name="birthday_saved">День рождения сохранен</string>
     <string name="birthday_term">День рождения</string>
     <string name="birthday_term_chinese_calendar">"День рождения %1$s (традиционный китайский календарь)"</string>
@@ -170,8 +170,8 @@
     <string name="delete_this_event_title">Удалить мероприятие?</string>
     <string name="description_calendar">Системные приложения/Календарь</string>
     <string name="description_calendar_edit_event">Системные приложения/Календарь/Повестка дня</string>
-    <string name="description_calendar_huangli" />
-    <string name="description_calendar_subscribe_group" />
+    <string name="description_calendar_huangli"/>
+    <string name="description_calendar_subscribe_group"/>
     <string name="directory_searching_fmt">Поиск в %s…</string>
     <string name="discard_label">Отмена</string>
     <string name="does_not_repeat">Однократно</string>
@@ -227,7 +227,7 @@
     <string name="email_install_hint">Приложение \"Почта\" было удалено. Установите его заново для восстановления аккаунтов календаря или добавления новых.</string>
     <string name="email_picker_label">Отправить из</string>
     <string name="email_subject_prefix">"Re: "</string>
-    <string name="empty" />
+    <string name="empty"/>
     <string name="empty_event">Нельзя создать пустое мероприятие</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
@@ -410,8 +410,8 @@
     <string name="login_failed_toast">Не удалось войти, обновите и повторите попытку</string>
     <string name="lunar_date">Лунная дата</string>
     <string name="lunar_date_content_desc">Дата по традиционному китайскому календарю</string>
-    <string name="lunar_day" />
-    <string name="lunar_to_solar" />
+    <string name="lunar_day"/>
+    <string name="lunar_to_solar"/>
     <string name="lunar_to_solar_chinese_calendar">Китайский в григорианский</string>
     <string name="match_ed">Завершено</string>
     <string name="match_not_started">Не началось</string>
@@ -588,7 +588,7 @@
     <string name="no_visiable_calendar_title">Добавление аккаунта</string>
     <string name="noon">Полдень</string>
     <string name="not_synced">не синхронизирован</string>
-    <string name="notification_channel_description" />
+    <string name="notification_channel_description"/>
     <string name="notification_channel_name">Регулярные</string>
     <string name="notification_channel_name_no_sound">Без звука</string>
     <string name="notification_channel_name_no_vibration">Без вибрации</string>
@@ -709,13 +709,13 @@
     <string name="repeat_label_frequency">Частота</string>
     <string name="repeat_label_interval">Интервал</string>
     <string name="repeat_label_week">Неделя</string>
-    <string name="repeat_lunar_monthly" />
+    <string name="repeat_lunar_monthly"/>
     <string name="repeat_lunar_monthly_chinese_calendar">Ежемесячный лунный календарь</string>
-    <string name="repeat_lunar_monthly_detail" />
+    <string name="repeat_lunar_monthly_detail"/>
     <string name="repeat_lunar_monthly_detail_chinese_calendar">Лунный календарь（%1$s）</string>
-    <string name="repeat_lunar_yearly" />
+    <string name="repeat_lunar_yearly"/>
     <string name="repeat_lunar_yearly_chinese_calendar">Ежегодный лунный календарь</string>
-    <string name="repeat_lunar_yearly_detail" />
+    <string name="repeat_lunar_yearly_detail"/>
     <string name="repeat_lunar_yearly_detail_chinese_calendar">Лунный календарь（%1$s）</string>
     <string name="repeat_month_day_splitter">" "</string>
     <string name="repeat_week_info">%1$s %2$s</string>
@@ -733,9 +733,9 @@
     <string name="search">Поиск</string>
     <string name="search_calendar">Дата;Солнечные сезоны;Лунный;Альманах;Удача;Повестка дня;Встреча;Напоминание;Отпуск;Праздник;День рождения;2020;Праздник весны;Новый год;Международный день труда;Праздник середины осени</string>
     <string name="search_calendar_edit_event">Встреча;Напоминание;Повестка дня</string>
-    <string name="search_calendar_huangli" />
+    <string name="search_calendar_huangli"/>
     <string name="search_calendar_settings">Календарь;Повестка дня;Напоминание</string>
-    <string name="search_calendar_subscribe_group" />
+    <string name="search_calendar_subscribe_group"/>
     <string name="search_events">Поиск мероприятий</string>
     <string name="search_history">История поиска</string>
     <string name="search_menu_title">Поиск</string>
@@ -789,7 +789,7 @@
     <string name="show_day_view">Показать день</string>
     <string name="sms_import_description">Управление событиями из сообщений</string>
     <string name="solar_date_content_desc">Дата по григорианскому календарю</string>
-    <string name="solar_lunar_convert_date" />
+    <string name="solar_lunar_convert_date"/>
     <string name="solar_lunar_convert_description">Григорианский в традиционный китайский</string>
     <string name="solar_lunar_convert_description_2">Переключение между традиционным китайским и григорианским календарями</string>
     <string name="solar_lunar_convert_tab">Конвертировать</string>
@@ -817,7 +817,7 @@
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
-    <string name="solar_to_lunar" />
+    <string name="solar_to_lunar"/>
     <string name="solar_to_lunar_chinese_calendar">Григорианский в китайский</string>
     <string name="start_date_calculate">Рассчитать</string>
     <string name="subscribe_card">Подписаться</string>

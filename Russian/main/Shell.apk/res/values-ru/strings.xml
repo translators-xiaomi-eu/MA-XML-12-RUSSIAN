@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_label">Оболочка</string>
     <string name="bugreport_add_details_to_zip_failed">Не удалось добавить данные отчета об ошибке в ZIP-файл</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -47,7 +47,7 @@
     <string name="act_weather_find_city_net_no_good">Не удалось подключиться к сети</string>
     <string name="act_weather_find_city_no_result">Ничего не найдено</string>
     <string name="act_weather_find_city_searching">Поиск…</string>
-    <string name="activity_alert_detail_title" />
+    <string name="activity_alert_detail_title"/>
     <string name="activity_find_city_dialog_cancel">Отмена</string>
     <string name="activity_find_city_dialog_message">Разрешите Погоде доступ к вашему местоположению для получения точных данных.</string>
     <string name="activity_find_city_dialog_message_global">Разрешите Погоде доступ к вашему местоположению и переключение в режим высокой точности для получения актуальных данных.</string>
@@ -55,7 +55,7 @@
     <string name="activity_find_city_dialog_set">Настройки</string>
     <string name="activity_find_city_dialog_title">Доступ к местоположению</string>
     <string name="activity_main_clickable">&gt;</string>
-    <string name="activity_main_one_alert" />
+    <string name="activity_main_one_alert"/>
     <string name="activity_main_pub_time">Опубликовано в %1$s</string>
     <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Обновлено %1$s</string>
@@ -231,9 +231,9 @@
     <string name="index_item_download_pause">Возобновить</string>
     <string name="index_item_downloading">Загрузка</string>
     <string name="index_item_experience_now">Установить &gt;</string>
-    <string name="index_item_install_dialog" />
-    <string name="index_item_install_dialog_cancel" />
-    <string name="index_item_install_dialog_open" />
+    <string name="index_item_install_dialog"/>
+    <string name="index_item_install_dialog_cancel"/>
+    <string name="index_item_install_dialog_open"/>
     <string name="index_item_install_now">Установить</string>
     <string name="index_item_installing">Установка</string>
     <string name="index_item_installing2">Установка</string>
@@ -371,7 +371,7 @@
     <string name="setting_content_promotion">Рекомендации метеослужбы</string>
     <string name="setting_experience_plan_title">Программа взаимодействия с пользователем</string>
     <string name="setting_today_news">Новости сегодня</string>
-    <string name="setting_weather_video">Видео погоды</string>	
+    <string name="setting_weather_video">Видео погоды</string>
     <string name="settings">Настройки</string>
     <string name="share">Поделиться</string>
     <string name="share_button">Поделиться</string>
@@ -429,11 +429,11 @@
     <string name="tts_best_aqi">Лучшее качество воздуха</string>
     <string name="tts_hour_weather_date_time">С %2$s по %1$s до %4$s по %3$s</string>
     <string name="tts_max_wind_power">Максимальная скорость ветра</string>
-    <string name="tts_report_aqi" />
-    <string name="tts_report_defautl_head" />
-    <string name="tts_report_split" />
-    <string name="tts_report_weather_desc" />
-    <string name="tts_report_wind" />
+    <string name="tts_report_aqi"/>
+    <string name="tts_report_defautl_head"/>
+    <string name="tts_report_split"/>
+    <string name="tts_report_weather_desc"/>
+    <string name="tts_report_wind"/>
     <string name="twc_logo_title"/>
     <string name="unit">Единицы измерения</string>
     <string name="unit_temperature">Температура</string>
@@ -450,10 +450,10 @@
     <string name="video_banner_regional_weather_update">Региональные сводки погоды</string>
     <string name="video_banner_weather_forecast">Прогноз погоды</string>
     <string name="video_banner_weather_update">Последние сводки погоды</string>
-    <string name="video_dialog_no_play" />
-    <string name="video_dialog_play" />
-    <string name="video_dialog_subtitle" />
-    <string name="video_dialog_title" />
+    <string name="video_dialog_no_play"/>
+    <string name="video_dialog_play"/>
+    <string name="video_dialog_subtitle"/>
+    <string name="video_dialog_title"/>
     <string name="view_forecast_item_yesterday">Вчера</string>
     <string name="view_indexes_item_day_after_tommorrow">Через 2 дня</string>
     <string name="view_indexes_item_today">Сегодня</string>

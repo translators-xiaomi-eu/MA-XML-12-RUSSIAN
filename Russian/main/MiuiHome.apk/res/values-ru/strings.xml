@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -220,8 +220,8 @@
     <string name="disable_wallpaper_scroll">Отключить прокрутку обоев</string>
     <string name="double_tap_to_lock_title">Блокировка экрана двойным касанием</string>
     <string name="download_action">Загрузить</string>
-    <string name="drag_multiple_item_name" />
-    <string name="drag_single_item_name" />
+    <string name="drag_multiple_item_name"/>
+    <string name="drag_single_item_name"/>
     <string name="drawer_background">Фон</string>
     <string name="drawer_background_dark">Темный</string>
     <string name="drawer_background_light">Светлый</string>
@@ -442,7 +442,7 @@
     <string name="preferred_app_settings_not_selected">Не выбрано</string>
     <string name="privacy_thumbnail_blur_summary">Размывать миниатюры приложений в Недавних</string>
     <string name="privacy_thumbnail_blur_title">Размытие миниатюр</string>
-    <string name="process" />
+    <string name="process"/>
     <string name="quick_app">Быстрые приложения</string>
     <string name="recent_apps">Недавние</string>
     <string name="recent_menu_item_info">Сведения</string>
@@ -505,7 +505,7 @@
     <string name="shake_to_align_icons_summary">Встряхните устройство для автоматического заполнения пустых ячеек в режиме редактирования рабочего стола.</string>
     <string name="shake_to_align_icons_title">Заполнять пустые ячейки встряхиванием</string>
     <string name="share">Отправить</string>
-    <string name="sharedUserId" />
+    <string name="sharedUserId"/>
     <string name="shortcut_share_dialog_content">Файлы, которые вы отправляете со своего телефона, а также их получатели, выбираются и определяются вами. Будьте внимательны при выборе файлов для обмена и при выборе получателей. Вы не должны использовать свой телефон для передачи вирусов и вредоносного программного обеспечения другим людям. Не используйте свой телефон для передачи программного обеспечения, которое может повлиять на пользование устройством получателем, а также повредить, помешать, перехватить или уничтожить любые данные или личную информацию на мобильных устройствах. Вы будете нести ответственность за любой ущерб, причиненный другим пользователям или мобильным устройствам. Xiaomi сделает все возможное, чтобы функциональность обмена, а также используемые технологии и информация были безопасными, эффективными, точными и надежными. Тем не менее, из-за текущих технологических ограничений, Xiaomi не гарантирует, что функциональность совместного использования будет безупречной и удовлетворит все ваши потребности.</string>
     <string name="shortcut_share_dialog_positive_button">Понятно</string>
     <string name="shortcut_share_dialog_title">Отказ от ответственности</string>
@@ -567,7 +567,7 @@
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unnamed_folder_name">Папка</string>
     <string name="unstable_dialog_message">Это устройство зарегистрировано в программе Android 11 Developer Preview. Программа позволяет опробовать предрелизные версии Android 11. Эта предрелизная версия может содержать ошибки и дефекты, которые могут повлиять на нормальное функционирование вашего устройства.</string>
-    <string name="unstable_dialog_title">Программа Android Developer Preview</string>	
+    <string name="unstable_dialog_title">Программа Android Developer Preview</string>
     <string name="use_theme_screen_cells_title">Разрешить теме изменять сетку экрана</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
@@ -587,5 +587,5 @@
     <string name="widgets_preview_title">Виджеты</string>
     <string name="work_mode_off_label">Уведомления отключены, приложения недоступны</string>
     <string name="work_mode_on_label">Управляется вашей организацией</string>
-    <string name="work_profile_toggle_label">Рабочий профиль</string>	
+    <string name="work_profile_toggle_label">Рабочий профиль</string>
 </resources>
