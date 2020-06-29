@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_in_furture">
         <item>Осталось менее минуты</item>
@@ -62,7 +62,7 @@
         <item>Понедельник-пятница</item>
         <item>Рабочие дни</item>
         <item>По выбору</item>
-    </string-array>
+    </string-array>	
     <string-array name="cities_names_miui">
         <item>Абиджан</item>
         <item>Аккра</item>
@@ -652,14 +652,7 @@
         <item>Чт</item>
         <item>Пт</item>
         <item>Сб</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>В заданное время</item>
-        <item>За 15 минут</item>
-        <item>За 30 минут</item>
-        <item>За 1 час</item>
-        <item>Отключено</item>
-    </string-array>
+    </string-array>	
     <string-array name="snooze_duration_entries">
         <item>1 минута</item>
         <item>5 минут</item>
@@ -692,4 +685,11 @@
         <item>Отложить</item>
         <item>Отключить</item>
     </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>В заданное время</item>
+        <item>За 15 минут</item>
+        <item>За 30 минут</item>
+        <item>За 1 час</item>
+        <item>Отключено</item>
+    </string-array>    
 </resources>

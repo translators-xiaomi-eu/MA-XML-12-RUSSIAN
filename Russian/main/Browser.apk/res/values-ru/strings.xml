@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -273,7 +273,7 @@
     <string name="contextmenu_webpage_html">Сохранить как HTML файл</string>
     <string name="contextmenu_webpage_snapshot">Сохранить страницу</string>
     <string name="contextmenu_webpage_translate">Перевод страницы</string>
-    <string name="contextmenu_webpage_translation_tips">Новая функция перевода в панели инструментов</string>
+    <string name="contextmenu_webpage_translation_tips">Новая функция перевода в панели инструментов</string>	
     <string name="custom_head_card_text">Всегда верьте, что произойдет что-то замечательное</string>
     <string name="custom_head_weather">Погода</string>
     <string name="dark_mode_setting_dark">Ночной режим (темный)</string>
@@ -599,6 +599,7 @@
     <string name="mw_common_signin_button_text_long">Войти с аккаунтом Google</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">Не удалось скопировать в буфер обмена</string>
+    <string name="mw_current_detected_ui_locale_name">ru-RU</string>
     <string name="mw_crash_label">Сбой (%1$s) - [%2$s]</string>
     <string name="mw_crash_report_button_text">Отправить подробности</string>
     <string name="mw_crash_report_template">"ВАЖНО: Отчет об ошибке уже автоматически отправлен нам. Вам нужно заполнить это только в том случае, если вы можете поделиться дополнительной информацией, например, шагами для воспроизведения проблемы.
@@ -624,7 +625,6 @@
 Crash ID: http://crash/%1$s"</string>
     <string name="mw_crashes_list_activity_title">Сбой WebView</string>
     <string name="mw_crashes_num">Всего сбоев: %1$d</string>
-    <string name="mw_current_detected_ui_locale_name">ru-RU</string>
     <string name="mw_data_traffic_prompt_change">Использование мобильного интернета для просмотра видео может привести к дополнительным расходам. Если вы превысите лимит использования данных вашего плана, ваш оператор сможет взимать с вас дополнительную плату.</string>
     <string name="mw_data_traffic_prompt_message">Использование мобильного интернета для просмотра видео может привести к дополнительным расходам. Если вы превысите лимит использования данных вашего плана, ваш оператор сможет взимать с вас дополнительную плату.</string>
     <string name="mw_data_traffic_prompt_message_short">Использование мобильного интернета для потоковой передачи видео может привести к превышению лимита использования данных вашего плана.</string>
@@ -1281,7 +1281,7 @@ Crash ID: http://crash/%1$s"</string>
     <string name="web_translation_doing_tips">Идет перевод…</string>
     <string name="web_translation_failed_toast">Ошибка перевода, повторите попытку</string>
     <string name="web_translation_non_en_toast">Английский текст отсутствует</string>
-    <string name="web_translation_pop_text">Функция перевода доступна в панели инструментов</string>
+    <string name="web_translation_pop_text">Функция перевода доступна в панели инструментов</string>	
     <string name="webpage_title">Закладки</string>
     <string name="wechat_not_installed">Wechat не установлен</string>
 </resources>

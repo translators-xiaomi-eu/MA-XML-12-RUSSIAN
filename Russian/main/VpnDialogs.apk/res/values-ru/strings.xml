@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="always_on_disconnected_message">%1$s настроен на постоянное подключение, но сейчас подключение отсутствует. Устройство будет использовать общедоступную сеть, пока не сможет подключиться к %1$s.</string>
     <string name="always_on_disconnected_message_lockdown">%1$s настроен на постоянное подключение, но сейчас подключение отсутствует. Подключение будет отсутствовать, пока VPN не сможет восстановить соединение.</string>

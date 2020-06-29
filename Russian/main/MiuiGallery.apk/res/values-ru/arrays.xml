@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="activities_title">
         <item>Особенный день</item>
@@ -26,12 +26,12 @@
         <item>Октябрь</item>
         <item>Ноябрь</item>
         <item>Декабрь</item>
-    </string-array>
+    </string-array>    
     <string-array name="last_week_baby_title">
         <item>Время играть</item>
         <item>Детские выходные</item>
         <item>Малыш</item>
-    </string-array>
+    </string-array>	
     <string-array name="last_weekend_title">
         <item>Мои выходные</item>
         <item>Ритмы жизни</item>
@@ -40,7 +40,7 @@
     <string-array name="last_year_group_people">
         <item>Новые друзья и старые приятели</item>
         <item>Прошлогодние встречи</item>
-    </string-array>
+    </string-array>	
     <string-array name="month">
         <item>Январь</item>
         <item>Февраль</item>
@@ -71,7 +71,7 @@
     <string-array name="recent_group_people">
         <item>Совместно</item>
         <item>Связи и контакты</item>
-    </string-array>
+    </string-array>	
     <string-array name="relation_with_me">
         <item>Я</item>
         <item>Ребенок</item>
@@ -102,11 +102,11 @@
     <string-array name="three_month_baby_title">
         <item>Они растут так быстро</item>
         <item>Детские фото</item>
-    </string-array>
+    </string-array>	
     <string-array name="weekend_title">
         <item>Прошедшие выходные</item>
         <item>Памятные дни</item>
         <item>Повседневные события</item>
         <item>Обычное и необычное</item>
-    </string-array>
+    </string-array>    
 </resources>

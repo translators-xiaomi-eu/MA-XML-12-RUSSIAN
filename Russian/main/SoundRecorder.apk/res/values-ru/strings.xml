@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -34,7 +34,7 @@
     <string name="alert_message_delete_record_title">Удаление записи</string>
     <string name="app_name">Диктофон</string>
     <string name="app_record">Записи</string>
-    <string name="app_record_preference_title">Записи</string>
+    <string name="app_record_preference_title">Записи</string>	
     <string name="back">Назад</string>
     <string name="button_queue_for_wifi">Отложить</string>
     <string name="button_start_now">Продолжить</string>
@@ -270,7 +270,7 @@
     <string name="record_list_item_recognize_text">Текст</string>
     <string name="record_mark_point">Метка %s</string>
     <string name="record_name_hour">.</string>
-    <string name="record_name_minute"/>
+    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">Качество записи</string>
     <string name="record_resotre">Восстановить записи</string>
     <string name="recording">Запись</string>

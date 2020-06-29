@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -154,7 +154,7 @@ mm"</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="night">Вечер</string>
     <string name="no_cta_agreed">GetApps не имеет CTA разрешений</string>
-    <string name="no_install_permission">Отсутствуют разрешения для установки</string>
+    <string name="no_install_permission">Отсутствуют разрешения для установки</string>	
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
     <string name="password_toggle_content_description">Показать пароль</string>

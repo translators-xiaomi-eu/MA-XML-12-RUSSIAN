@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Час назад</item>
@@ -28,7 +28,7 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 мин. назад</item>
-    </plurals>
+    </plurals>	
     <plurals name="data_item_count">
         <item quantity="other">%d элементов</item>
         <item quantity="one">%d элемент</item>
@@ -48,9 +48,9 @@
         <item quantity="other">Полчаса назад</item>
     </plurals>
     <plurals name="hour">
-        <item quantity="other">&lt;g id="hour</item>
-        <item quantity="one">&lt;g id="hour</item>
-        <item quantity="few">&lt;g id="hour</item>
+        <item quantity="other">&lt;g id="hour">%1$d&lt;/g> часов</item>
+        <item quantity="one">&lt;g id="hour">%1$d&lt;/g> час</item>
+        <item quantity="few">&lt;g id="hour">%1$d&lt;/g> часа</item>
     </plurals>
     <plurals name="icloud_importing_title_count_desc">
         <item quantity="other">Импортировано %d элементов</item>
@@ -75,15 +75,15 @@
         <item quantity="other">Только что</item>
     </plurals>
     <plurals name="minute">
-        <item quantity="other">&lt;g id="minute</item>
-        <item quantity="one">&lt;g id="minute</item>
-        <item quantity="few">&lt;g id="minute</item>
-    </plurals>
+        <item quantity="other">&lt;g id="minute">%1$d&lt;/g> минут</item>
+        <item quantity="one">&lt;g id="minute">%1$d&lt;/g> минута</item>
+        <item quantity="few">&lt;g id="minute">%1$d&lt;/g> минуты</item>
+    </plurals>	
     <plurals name="num_minutes_ago">
         <item quantity="other">%d минут назад</item>
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
-    </plurals>
+    </plurals>	
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"Импортировано %d элементов. "</item>
         <item quantity="one">"Импортирован %d элемент. "</item>

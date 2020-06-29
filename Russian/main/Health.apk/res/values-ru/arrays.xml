@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="arr_prompt_label">
         <item>Разумно</item>
@@ -43,7 +43,7 @@
         <item>Друг</item>
         <item>Коллега</item>
         <item>Одноклассник</item>
-    </string-array>
+    </string-array>    
     <string-array name="energy_unit">
         <item> ккал</item>
         <item> кДж</item>
@@ -52,7 +52,7 @@
         <item>Не указано</item>
         <item>Мужчина</item>
         <item>Женщина</item>
-    </string-array>
+    </string-array>    
     <string-array name="length_unit">
         <item> см</item>
         <item> м</item>
@@ -74,7 +74,7 @@
         <item>Не указан</item>
         <item>Отрицательный</item>
         <item>Положительный</item>
-    </string-array>
+    </string-array>	
     <string-array name="run_in_background_state">
         <item>Без ограничений</item>
         <item>Ограничить фоновую активность</item>
@@ -93,7 +93,7 @@
     <string-array name="stand_guide_page_content2">
         <item>Помощник будет автоматически записывать вашу активность, определяя состояние использования мобильного телефона. Если в течение часа не будет зафиксировано никакой активности, будет отправлено напоминание о необходимости встать или вручную ввести запись.</item>
         <item>Подтверждение включит обнаружение активности и напоминания об этом.</item>
-    </string-array>
+    </string-array>	
     <string-array name="temperature_unit">
         <item>℃</item>
         <item>°F</item>
@@ -133,5 +133,5 @@
         <item>не указан</item>
         <item>да</item>
         <item>нет</item>
-    </string-array>
+    </string-array>	
 </resources>

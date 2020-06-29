@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -50,7 +50,7 @@
     <string name="appindex_search_label">Функции приложений</string>
     <string name="application_desc">Приложение</string>
     <string name="applications_search_label">Приложения</string>
-    <string name="apps_search_activity"/>
+    <string name="apps_search_activity" />
     <string name="autologin_bar_hide_text">Скрыть</string>
     <string name="autologin_bar_login_text">Войти</string>
     <string name="barcode_description">Сканер</string>
@@ -167,9 +167,9 @@
     <string name="cta_declaration_negative_text">Выход</string>
     <string name="cta_declaration_positive_text">Разрешить</string>
     <string name="cta_declaration_title">Условия использования</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="debug_http_clear_text">Очистить</string>
     <string name="debug_http_request">Сетевой запрос</string>

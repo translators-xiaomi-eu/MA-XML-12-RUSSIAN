@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -507,7 +507,7 @@
     <string name="email_work">Написать на рабочий адрес</string>
     <string name="emergency_number_label">Экстренный номер</string>
     <string name="emptyGroup">Нет контактов в группе</string>
-    <string name="empty_divider_title"/>
+    <string name="empty_divider_title" />
     <string name="enter_contact_name">Имя контакта</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -605,7 +605,7 @@
     <string name="help_url_people_add"/>
     <string name="help_url_people_edit"/>
     <string name="help_url_people_main"/>
-    <string name="hint_distance"/>
+    <string name="hint_distance" />
     <string name="hint_findContacts">Найти контакты</string>
     <string name="hint_more_contact">Объедините дубликаты контактов</string>
     <string name="hybrid_check_network">Настройки сети</string>
@@ -936,7 +936,7 @@
     <string name="night">Вечер</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Для создания групп нужен аккаунт</string>
-    <string name="noContactHelpTextAccountsInfo"/>
+    <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из Mi Аккаунта</string>
     <string name="noContacts">Нет контактов</string>
     <string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов</string>
@@ -1208,7 +1208,7 @@
     <string name="scan_merge">Поиск дубликатов контактов…</string>
     <string name="scan_not_installed">Сначала установите сканер</string>
     <string name="scan_qrcode_card_hint1">Отсканируйте этот QR-код</string>
-    <string name="scan_qrcode_card_hint2"/>
+    <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Причина: \"%s\".</string>
     <string name="scanning_sdcard_failed_title">Не удалось проверить память</string>
     <string name="sdnContacts_empty">Нет SDN</string>

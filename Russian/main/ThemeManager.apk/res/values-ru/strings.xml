@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -391,7 +391,7 @@
     <string name="mine_tab_title_local">Локальные</string>
     <string name="mine_tab_title_purchase">Покупки</string>
     <string name="miui_clock_city_name_local">Местное время</string>
-    <string name="miui_clock_city_name_second">Вторые часы</string>
+    <string name="miui_clock_city_name_second">Вторые часы</string>  
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE

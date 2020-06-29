@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="height_array">
         <item>Сантиметры</item>
@@ -39,5 +39,5 @@
     <string-array name="weight_array">
         <item>Килограммы</item>
         <item>Фунты</item>
-    </string-array>
+    </string-array>	
 </resources>

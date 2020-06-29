@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">%d дней назад</item>
@@ -94,7 +94,7 @@
         <item quantity="other">%d доступных устройств</item>
         <item quantity="few">%d доступных устройства</item>
         <item quantity="one">%d доступное устройство</item>
-    </plurals>
+    </plurals>	
     <plurals name="connected_devices_number">
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>
@@ -312,7 +312,7 @@
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d SIM</item>
         <item quantity="one">%1$d SIM</item>
-    </plurals>
+    </plurals>	
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d ограничения</item>
         <item quantity="one">%1$d ограничение</item>
@@ -324,13 +324,13 @@
         <item quantity="one">%1$d канал уведомлений.</item>
         <item quantity="few">%1$d канала уведомлений.</item>
         <item quantity="many">%1$d каналов уведомлений.</item>
-    </plurals>
+    </plurals>	
     <plurals name="notification_group_summary">
         <item quantity="other">%d категорий</item>
         <item quantity="one">%d категория</item>
         <item quantity="few">%d категории</item>
         <item quantity="many">%d категорий</item>
-    </plurals>
+    </plurals>	
     <plurals name="notification_summary">
         <item quantity="other">Отключены для %d приложения</item>
         <item quantity="one">Отключены для %d приложения</item>
@@ -348,7 +348,7 @@
         <item quantity="one">~%d уведомление в неделю</item>
         <item quantity="few">~%d уведомления в неделю</item>
         <item quantity="many">~%d уведомлений в неделю</item>
-    </plurals>
+    </plurals>	
     <plurals name="number_of_device_admins">
         <item quantity="other">%d активного приложения</item>
         <item quantity="one">%d активное приложение</item>
@@ -360,7 +360,7 @@
         <item quantity="one">1 приложение</item>
         <item quantity="few">%s приложения</item>
         <item quantity="many">%s приложений</item>
-    </plurals>
+    </plurals>	
     <plurals name="permissions_summary">
         <item quantity="other">Предоставлено %d разрешения</item>
         <item quantity="one">Предоставлено %d разрешение</item>
@@ -395,7 +395,7 @@
         <item quantity="other">Выбрано %d элементов</item>
         <item quantity="few">Выбрано %d элемента</item>
         <item quantity="one">Выбран %d элемент</item>
-    </plurals>
+    </plurals>	
     <plurals name="seconds">
         <item quantity="other">%s секунды</item>
         <item quantity="one">%s секунда</item>
@@ -431,7 +431,7 @@
         <item quantity="one">%1$d подключенное устройство</item>
         <item quantity="few">%1$d подключенных устройства</item>
         <item quantity="many">%1$d подключенных устройств</item>
-    </plurals>
+    </plurals>	
     <plurals name="show_cit_countdown">
         <item quantity="other">Осталось %1$d шагов до открытия инженерного меню</item>
         <item quantity="one">Остался %1$d шаг до открытия инженерного меню</item>
@@ -644,12 +644,12 @@
         <item quantity="other">%d сетей и подписок</item>
         <item quantity="one">1 сеть и подписка</item>
         <item quantity="few">%d сети и подписки</item>
-    </plurals>
+   </plurals>
     <plurals name="wifi_saved_passpoint_access_points_summary">
         <item quantity="other">%d подписок</item>
         <item quantity="one">1 подписка</item>
         <item quantity="few">%d подписки</item>
-    </plurals>
+    </plurals>	
     <plurals name="wifi_share_count">
         <item quantity="other">%d общих сетей</item>
         <item quantity="one">%d общая сеть</item>
@@ -670,7 +670,7 @@
         <item quantity="one">1 час</item>
         <item quantity="few">%d часа</item>
         <item quantity="many">%d часов</item>
-    </plurals>
+    </plurals>	
     <plurals name="zen_mode_settings_summary_on">
         <item quantity="other">%d вкл.</item>
         <item quantity="one">%d вкл.</item>
@@ -684,7 +684,7 @@
         <item quantity="other">еще %d контактов</item>
         <item quantity="one">еще 1 контакт</item>
         <item quantity="few">еще %d контакта</item>
-    </plurals>
+    </plurals>	
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Изменение сигнала только в течение %1$d часов до %2$s</item>
         <item quantity="one">Изменение сигнала только в течение %1$d часа до %2$s</item>

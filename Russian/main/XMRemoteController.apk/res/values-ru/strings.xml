@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -19,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="search_menu_title">Поиск</string>
     <string name="ac_gree">Gree AC</string>
     <string name="ac_mode_auto">Авто</string>
     <string name="ac_mode_cold">Охлаждение</string>
@@ -119,14 +120,6 @@
     <string name="cancel_timer">Отмена таймера</string>
     <string name="cannot_be_used_in_current_mode">Нельзя использовать &lt;%1$s> в текущем режиме</string>
     <string name="carrier_data">Данные оператора</string>
-    <string name="catalyst_debugjs">Debug JS</string>
-    <string name="catalyst_element_inspector">Проверить элемент</string>
-    <string name="catalyst_jsload_error">Unable to download JS bundle</string>
-    <string name="catalyst_jsload_message">Fetching JS bundle</string>
-    <string name="catalyst_jsload_title">Подождите...</string>
-    <string name="catalyst_reloadjs">Reload JS</string>
-    <string name="catalyst_settings">Dev Settings</string>
-    <string name="catalyst_settings_title">Catalyst Dev Settings</string>
     <string name="change_to_channel">Переключение %2$s [%1$s]</string>
     <string name="channel">Канал</string>
     <string name="channel_catogory_name">Каналы</string>
@@ -873,7 +866,6 @@
     <string name="search_history">История поиска</string>
     <string name="search_history_clear">Очистить историю</string>
     <string name="search_history_empty">Нет истории поиска</string>
-    <string name="search_menu_title">Поиск</string>
     <string name="search_more_failed">Не удалось загрузить результаты</string>
     <string name="search_no_device">Не удалось найти устройства</string>
     <string name="search_no_result">Нет результатов</string>
@@ -1110,4 +1102,12 @@
     <string name="year_month_day_format">d MMMM yyyy</string>
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
+    <string name="catalyst_debugjs">Debug JS</string>
+    <string name="catalyst_element_inspector">Проверить элемент</string>
+    <string name="catalyst_jsload_error">Unable to download JS bundle</string>
+    <string name="catalyst_jsload_message">Fetching JS bundle</string>
+    <string name="catalyst_jsload_title">Подождите...</string>
+    <string name="catalyst_reloadjs">Reload JS</string>
+    <string name="catalyst_settings">Dev Settings</string>
+    <string name="catalyst_settings_title">Catalyst Dev Settings</string>
 </resources>

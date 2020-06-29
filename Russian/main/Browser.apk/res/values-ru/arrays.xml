@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aqi_title">
         <item>%1$s</item>
@@ -35,11 +35,6 @@
         <item>Зеленый</item>
         <item>Синий</item>
     </string-array>
-    <string-array name="pref_fling_gesture_entries">
-        <item>Переход по страницам</item>
-        <item>Переход по вкладкам</item>
-        <item>Нет действий</item>
-    </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Переход по страницам</item>
         <item>Переход по вкладкам</item>
@@ -58,17 +53,17 @@
         <item>Вертикальный вид</item>
         <item>Горизонтальный вид</item>
     </string-array>
-    <string-array name="pref_tab_restore_array">
-        <item>Всегда спрашивать</item>
-        <item>Восстанавливать</item>
-        <item>Закрывать</item>
-    </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Очень маленький</item>
         <item>Маленький</item>
         <item>Средний</item>
         <item>Крупный</item>
         <item>Огромный</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Всегда спрашивать</item>
+        <item>Восстанавливать</item>
+        <item>Закрывать</item>
     </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
@@ -91,6 +86,11 @@
     <string-array name="shortcut_dialog_title">
         <item>Сообщение от браузера</item>
         <item>Следите за Олимпиадой с Mi</item>
+    </string-array>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Переход по страницам</item>
+        <item>Переход по вкладкам</item>
+        <item>Нет действий</item>
     </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>
