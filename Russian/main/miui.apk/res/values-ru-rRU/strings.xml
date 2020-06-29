@@ -4,7 +4,6 @@
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="action_mode_deselect_all">Снять выбор</string>
     <string name="action_mode_select_all">Выбрать все</string>
-    <string name="action_mode_title_empty">Выберите объекты</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="actionbar_immersion_button_more_description">Еще</string>
     <string name="activate">Активировать</string>

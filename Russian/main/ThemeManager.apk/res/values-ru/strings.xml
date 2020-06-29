@@ -92,7 +92,6 @@
     <string name="backup_theme_dialog_message">Сохранить текущую тему?</string>
     <string name="backup_theme_dialog_ok">Сохранить</string>
     <string name="backup_theme_fail_trial_rights_message">Нельзя сохранить пробную тему</string>
-    <string name="backup_theme_name">Моя тема</string>
     <string name="backup_theme_progress_message">Сохранение…</string>
     <string name="backup_theme_success_message">Сохранение настроек текущей темы завершено.</string>
     <string name="both_all_apply_failured">Не удалось установить обои</string>

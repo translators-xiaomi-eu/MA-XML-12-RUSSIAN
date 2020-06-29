@@ -4812,7 +4812,6 @@ OTG отключается автоматически через 10 минут �
     <string name="power_cell">Мобильная сеть в режиме ожидания</string>
     <string name="power_center">Экономия батареи</string>
     <string name="power_charge_remaining">%1$s до окончания зарядки</string>
-    <string name="power_charging_duration">%1$s - %2$s до полной зарядки</string>
     <string name="power_checker">Мониторинг питания</string>
     <string name="power_discharge_by">Заряда (%2$s) хватит примерно до %1$s</string>
     <string name="power_discharge_by_enhanced">Заряда хватит примерно до %1$s при текущем уровне использования (%2$s)</string>
@@ -5396,8 +5395,6 @@ UT-интерфейс: %5$s"</string>
     <string name="runningservices_settings_title">Запущенные приложения</string>
     <string name="runtime_permissions_summary_no_permissions_granted">У приложения нет разрешений</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Приложение не запрашивало разрешения</string>
-    <string name="rx_link_speed">%1$d Мбит/с</string>
-    <string name="rx_link_speed_label">Скорость приема:</string>
     <string name="rx_wifi_speed">Скорость приема</string>
     <string name="safety_and_regulatory_info">Безопасность и соответствие стандартам</string>
     <string name="save">Сохранить</string>
@@ -6031,7 +6028,6 @@ UT-интерфейс: %5$s"</string>
     <string name="share_remote_bugreport_dialog_title">Разрешить доступ к информации об ошибке?</string>
     <string name="share_this_wifi">Расширение покрытия Wi-Fi</string>
     <string name="sharing_remote_bugreport_dialog_message">Администратору предоставлен доступ к отчету об ошибке. Обратитесь к нему за дополнительной информацией.</string>
-    <string name="short_summary_font_size">Увеличение или уменьшение размера шрифта</string>
     <string name="show_all_anrs">Показывать все ANR</string>
     <string name="show_all_anrs_summary">Показывать диалог \"Приложение не отвечает\" для всех приложений</string>
     <string name="show_all_apps">Вся информация об использовании</string>
@@ -6882,8 +6878,6 @@ UT-интерфейс: %5$s"</string>
     <string name="turn_on_torch">Фонарик</string>
     <string name="turn_update_keyguard_password_wait_dialog">Изменение пароля…</string>
     <string name="twohours">1 час</string>
-    <string name="tx_link_speed">%1$d Мбит/с</string>
-    <string name="tx_link_speed_label">Скорость передачи:</string>
     <string name="tx_wifi_speed">Скорость передачи</string>
     <string name="under_keyguard">Экран блокировки</string>
     <string name="unimportant">Неважное</string>

@@ -170,9 +170,6 @@
     <string name="data_provided_by">Данные предоставлены</string>
     <string name="dislike_alert_dialog_title">Почему вы не хотите видеть этот контент?</string>
     <string name="edit_city">Выбор городов</string>
-    <string name="empty_view_net_loading">Обновление…</string>
-    <string name="empty_view_net_unavailable">"Не удалось подключиться к сети"</string>
-    <string name="empty_view_refresh">Повторите попытку</string>
     <string name="eu_region_version_first_start_network_msg">Используя этот продукт, вы соглашаетесь с тем, что он будет подключаться к сети, собирать, обрабатывать и использовать ваши личные данные, включая координаты городов, которые вы ищете, и другие типы данных, которые определяет наша Политика конфиденциальности. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем информацию. Нажав \"Согласен\", вы принимаете %1$s и %2$s Xiaomi.</string>
     <string name="exo_controls_fastforward_description">Перемотать вперед</string>
     <string name="exo_controls_fullscreen_description">Полноэкранный режим</string>
@@ -353,7 +350,6 @@
     <string name="realtime_temperature_no_data">Н/Д</string>
     <string name="realtime_wind_default_title">Ветер</string>
     <string name="receive_net_mock_success">Макет успешно загружен</string>
-    <string name="refresh_empty_data">Не удалось загрузить данные. Повторите попытку позже.</string>
     <string name="refresh_fail">Не удалось подключиться к сети</string>
     <string name="reminder_from_xiaomi_weather_app">Оповещения погоды</string>
     <string name="request_cta_connect_net">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>

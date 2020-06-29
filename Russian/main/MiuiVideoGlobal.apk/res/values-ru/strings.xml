@@ -10,8 +10,6 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показать все</string>
     <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
-    <string name="abc_capital_off">ОТКЛ.</string>
-    <string name="abc_capital_on">ВКЛ.</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
@@ -234,9 +232,6 @@
     <string name="define_roundedimageview"/>
     <string name="description">Описание</string>
     <string name="diagnosis_log_send_failed">Ошибка отправки журналов. Повторите попытку.</string>
-    <string name="diagnosis_log_sent_format">"Журналы отправлены.
-ID: %s
-Отправьте этот код руководителю."</string>
     <string name="dialog_privacy_info_new2">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные. Нажав \"Согласен\", вы принимаете нашу Политику конфиденциальности.</string>
     <string name="dialog_privacy_title">Предоставление разрешения</string>
     <string name="dialog_revoke_privacy_info_new2">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение?</string>
@@ -374,7 +369,6 @@ ID: %s
     <string name="gallery_video_item5_default_text">Сюжеты</string>
     <string name="gallery_video_item6_default_text">Радость</string>
     <string name="gallery_video_local_music_text">Выберите файл</string>
-    <string name="gallery_video_music_format_error">Не удалось добавить саундтрек к выбранному видео</string>
     <string name="gallery_video_music_text">Саундтрек</string>
     <string name="gallery_video_no_music_text">Нет</string>
     <string name="gallery_video_operate_text">Регулировка замедленной съемки</string>
@@ -397,7 +391,6 @@ ID: %s
     <string name="galleryplus_gallery_video_item5_default_text">Воспоминания</string>
     <string name="galleryplus_gallery_video_item6_default_text">Радость</string>
     <string name="galleryplus_gallery_video_local_music_text">Выбрать файл</string>
-    <string name="galleryplus_gallery_video_music_format_error">Не удалось добавить звуковую дорожку в выбранное видео</string>
     <string name="galleryplus_gallery_video_music_text">Звуковая дорожка</string>
     <string name="galleryplus_gallery_video_no_music_text">Нет</string>
     <string name="galleryplus_gallery_video_operate_text">Настойки замедленного видео</string>
@@ -871,7 +864,6 @@ ID: %s
     <string name="passport_verify">Подтвердить</string>
     <string name="passport_wechat_not_install">Сначала установите WeChat</string>
     <string name="passport_wrong_captcha">Неверный код</string>
-    <string name="passport_wrong_phone_number_format">Неверный формат номера телефона</string>
     <string name="passport_wrong_vcode">Неверный код</string>
     <string name="passport_wrong_voice">Неверный код</string>
     <string name="password_toggle_content_description">Показать пароль</string>
@@ -986,7 +978,6 @@ ID: %s
     <string name="plus_properties_file">Файл</string>
     <string name="plus_properties_file_name">Имя файла</string>
     <string name="plus_properties_finished">Просмотренные</string>
-    <string name="plus_properties_format">Формат</string>
     <string name="plus_properties_frame_rate">Частота кадров</string>
     <string name="plus_properties_last_playback_position">Последняя позиция</string>
     <string name="plus_properties_last_playback_time">Последние</string>

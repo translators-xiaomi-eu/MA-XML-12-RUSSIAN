@@ -394,7 +394,6 @@
     <string name="picture_color_mode_desc">Использовать sRGB</string>
     <string name="pointer_location">Отображать касания</string>
     <string name="pointer_location_summary">Визуализировать на экране нажатия и жесты</string>
-    <string name="power_charging_duration">%1$s - %2$s до полной зарядки</string>
     <string name="power_discharge_by">Заряда (%2$s) хватит примерно до %1$s</string>
     <string name="power_discharge_by_enhanced">Заряда хватит примерно до %1$s при текущем уровне использования (%2$s)</string>
     <string name="power_discharge_by_only">Заряда хватит примерно до %1$s</string>
