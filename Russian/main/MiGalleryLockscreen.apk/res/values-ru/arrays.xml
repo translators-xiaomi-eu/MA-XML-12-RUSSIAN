@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="feature_desc">
-        <item>Оптимизирован для международных пользователей Xiaomi.eu</item>
-    </string-array>
-    <string-array name="month12">
+    <string-array name="">
         <item>Январь</item>
         <item>Февраль</item>
         <item>Март</item>

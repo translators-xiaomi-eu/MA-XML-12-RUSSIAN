@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="default_phrases">
+    <string-array name="">
         <item>Заголовок счета: *** </item>
         <item>Адрес: улица, квартира, город, страна/регион, провинция, почтовый индекс</item>
         <item>Пожалуйста, оставьте пакет у двери. Спасибо!</item>

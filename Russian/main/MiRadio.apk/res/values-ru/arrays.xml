@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="aritst_gender_filter_api">
+    <string-array name="">
         <item>все</item>
         <item>мужчина</item>
         <item>женщина</item>
