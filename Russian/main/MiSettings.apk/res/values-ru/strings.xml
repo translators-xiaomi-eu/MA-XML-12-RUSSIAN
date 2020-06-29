@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -55,9 +55,9 @@
     <string name="created">Создан</string>
     <string name="created_successfully">Ярлык создан</string>
     <string name="cu_confirm">Установить</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
+    <string name="date_picker_label_day"/>
+    <string name="date_picker_label_month"/>
+    <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="display_description">Большие значки, крупный текст, упрощенный вид</string>
     <string name="display_title">Увеличенные элементы</string>
@@ -321,7 +321,7 @@
     <string name="usage_app_limit_reach_summay">Осталось %s</string>
     <string name="usage_app_limit_reach_summay_new">Нажмите, чтобы добавить %d мин.</string>
     <string name="usage_app_limit_reach_title">Достигнут лимит времени экрана для %s</string>
-    <string name="usage_app_limit_reach_title_new" formatted="false">Оставшееся время экрана для %1s: %2s</string>	
+    <string name="usage_app_limit_reach_title_new" formatted="false">Оставшееся время экрана для %1s: %2s</string>
     <string name="usage_app_limit_summary">Приложение будет недоступно при достижении лимита времени экрана</string>
     <string name="usage_app_limit_title">Ограничить время экрана</string>
     <string name="usage_app_other_settings">Дополнительные настройки</string>
@@ -536,7 +536,7 @@
     <string name="usage_total_days">Всего дней</string>
     <string name="usage_total_times">Всего сессий</string>
     <string name="usage_week_avg_usage_title">В среднем в неделю</string>
-    <string name="usage_week_avg_usage_title2">Среднее время</string>	
+    <string name="usage_week_avg_usage_title2">Среднее время</string>
     <string name="usage_weekly_report_summary">Узнайте, сколько времени вы проводите с устройством</string>
     <string name="usage_weekly_report_title">Еженедельный отчет</string>
     <string name="usagestats_app_category_miui_education">Образование</string>

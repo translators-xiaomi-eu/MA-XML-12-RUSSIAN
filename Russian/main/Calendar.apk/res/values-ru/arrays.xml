@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="aquarius_info">
         <item>водолей</item>
@@ -89,15 +89,15 @@
         <item>Для всех событий</item>
         <item>Для чувствительных ко времени событий</item>
     </string-array>
-    <string-array name="prefValues_alerts_popup">
-        <item>нет</item>
-        <item>все</item>
-        <item>умные</item>
-    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Всегда</item>
         <item>Только в режиме \"Без звука\"</item>
         <item>Никогда</item>
+    </string-array>
+    <string-array name="prefValues_alerts_popup">
+        <item>нет</item>
+        <item>все</item>
+        <item>умные</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Региональные настройки</item>
@@ -189,55 +189,18 @@
         <item>месяц</item>
         <item>год</item>
     </string-array>
-    <string-array name="repeat_monthly_on_day_count_values">
-        <item>первый понедельник</item>
-        <item>первый вторник</item>
-        <item>первая среда</item>
-        <item>первый четверг</item>
-        <item>первая пятница</item>
-        <item>первая суббота</item>
-        <item>первое воскресенье</item>
-        <item>второй понедельник</item>
-        <item>второй вторник</item>
-        <item>вторая среда</item>
-        <item>второй четверг</item>
-        <item>вторая пятница</item>
-        <item>вторая суббота</item>
-        <item>второе воскресенье</item>
-        <item>третий понедельник</item>
-        <item>третий вторник</item>
-        <item>третья среда</item>
-        <item>третий четверг</item>
-        <item>третья пятница</item>
-        <item>третья суббота</item>
-        <item>третье воскресенье</item>
-        <item>четвертый понедельник</item>
-        <item>четвертый вторник</item>
-        <item>четвертая среда</item>
-        <item>четвертый четверг</item>
-        <item>четвертая пятница</item>
-        <item>четвертая суббота</item>
-        <item>четвертое воскресенье</item>
-        <item>последний понедельник</item>
-        <item>последний вторник</item>
-        <item>последняя среда</item>
-        <item>последний четверг</item>
-        <item>последняя пятница</item>
-        <item>последняя суббота</item>
-        <item>последнее воскресенье</item>
-    </string-array>
     <string-array name="response_labels1">
         <item>Нет ответа</item>
         <item>Да</item>
         <item>Возможно</item>
         <item>Нет</item>
     </string-array>
-     <string-array name="response_labels2">
+    <string-array name="response_labels2">
         <item>Оставить без ответа</item>
         <item>Принять</item>
         <item>Решить позже</item>
         <item>Отклонить</item>
-     </string-array>
+    </string-array>
     <string-array name="sagittarius_info">
         <item>стрелец</item>
         <item>Стрелец</item>
@@ -326,7 +289,7 @@
         <item>Красноярск</item>
         <item>Бангкок</item>
         <item>Пекин</item>
-		<item>Чунцин</item>
+        <item>Чунцин</item>
         <item>Гонконг</item>
         <item>Макао</item>
         <item>Сингапур</item>

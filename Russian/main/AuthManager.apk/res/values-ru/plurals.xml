@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="days">
         <item quantity="other">%s дней</item>
@@ -19,5 +19,5 @@
     <plurals name="seconds">
         <item quantity="other">%s сек.</item>
         <item quantity="one">%s сек.</item>
-    </plurals>	
+    </plurals>
 </resources>

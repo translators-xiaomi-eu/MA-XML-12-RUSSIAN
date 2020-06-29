@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -221,9 +221,9 @@
     <string name="date_format_y_m_d_h_m_s">dd.MM.yyyy HH:mm:ss</string>
     <string name="date_format_y_m_d_notranslate">dd.MM.yyyy</string>
     <string name="date_format_yyyy_m_d_h_m">dd.MM.yyyy HH:mm</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
+    <string name="date_picker_label_day"/>
+    <string name="date_picker_label_month"/>
+    <string name="date_picker_label_year"/>
     <string name="date_picker_lunar">Лунный календарь</string>
     <string name="date_week_index">"yyyy, ww 'неделя'"</string>
     <string name="day">День</string>
@@ -328,7 +328,7 @@ ID:%s
     <string name="edit_immediately">Введите информацию</string>
     <string name="edit_sleep_record_button">Редактирование</string>
     <string name="emergency_contact">Экстренный контакт</string>
-    <string name="empty" />
+    <string name="empty"/>
     <string name="empty_data">-</string>
     <string name="enable">Включить</string>
     <string name="enable_go_now">Включить</string>
@@ -379,7 +379,7 @@ ID:%s
     <string name="exercise_recog_confirm_ridding">Вы ездили на велосипеде с %1$s до %2$s?</string>
     <string name="exercise_recog_confirm_run">Вы бегали с %1$s до %2$s?</string>
     <string name="exercise_recog_confirm_stair_climb">Вы поднимались по ступеням с %1$s до %2$s?</string>
-    <string name="exercise_recog_confirm_walk">Вы ходили с %1$s до %2$s?</string>	
+    <string name="exercise_recog_confirm_walk">Вы ходили с %1$s до %2$s?</string>
     <string name="exercise_record">История тренировок</string>
     <string name="exercise_record_no_data">Пока ничего нет</string>
     <string name="exercise_reminder_accomplished">Цель достигнута!</string>

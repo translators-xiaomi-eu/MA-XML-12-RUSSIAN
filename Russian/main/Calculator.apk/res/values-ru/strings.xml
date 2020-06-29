@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -92,8 +92,8 @@
     <string name="currency_update_support">Курсы валют предоставлены Webull.</string>
     <string name="currency_update_time_format">Курсы валют предоставлены Webull (%s)</string>
     <string name="currency_update_updating">Обновление курсов…</string>
-    <string name="current_rate_remind_commercial" />
-    <string name="current_rate_remind_fund" />
+    <string name="current_rate_remind_commercial"/>
+    <string name="current_rate_remind_fund"/>
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
@@ -171,7 +171,7 @@
     <string name="from_unit">км/ч</string>
     <string name="from_unit_en">Километр в час</string>
     <string name="from_unit_short">км/ч</string>
-    <string name="fund" />
+    <string name="fund"/>
     <string name="fund_loan">Ссудный фонд</string>
     <string name="further_education">Дальнейшее образование</string>
     <string name="gay_other_search_result">В настоящее время запрос на однополые браки не поддерживается. Как вы это называете?</string>
@@ -202,7 +202,7 @@
     <string name="home_title_calculator">Калькулятор</string>
     <string name="house_rent">Арендная плата</string>
     <string name="husband">Муж</string>
-    <string name="income_type" />
+    <string name="income_type"/>
     <string name="install">Установить</string>
     <string name="install_scanner_to_continued_use">Сканер был удален. Установить его повторно?</string>
     <string name="interest_rate_hint">Введите процентную ставку</string>
@@ -410,7 +410,7 @@
     <string name="noon">PM</string>
     <string name="not_supported_due_to_language">Эта функция доступна только для китайского языка</string>
     <string name="ok">ОК</string>
-    <string name="percent" />
+    <string name="percent"/>
     <string name="percentDesc">процент</string>
     <string name="permission_location">Доступ к местоположению</string>
     <string name="permission_location_desc">Предоставление услуг на основе местоположения</string>
@@ -477,7 +477,7 @@
     <string name="sin">sin</string>
     <string name="sinDesc">синус</string>
     <string name="sin_mathematical_value">sin</string>
-    <string name="social_security" />
+    <string name="social_security"/>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -505,7 +505,7 @@
     <string name="son">Сын</string>
     <string name="sqrt">√</string>
     <string name="sqrtDesc">квадратный корень</string>
-    <string name="start_calculate" />
+    <string name="start_calculate"/>
     <string name="statistic_label_balance">Баланс</string>
     <string name="statistic_label_interest">Процент</string>
     <string name="statistic_label_month">Месяц</string>
@@ -548,7 +548,7 @@
     <string name="tax_detail_rate">Ставка налога</string>
     <string name="tax_detail_take_off">Вычет</string>
     <string name="tax_detail_tax_payed">Выплаченная сумма</string>
-    <string name="tax_edittext_hint" />
+    <string name="tax_edittext_hint"/>
     <string name="tax_endowment">Пенсионный фонд</string>
     <string name="tax_fixed_salary_hint">Введите доход до уплаты налогов</string>
     <string name="tax_income_annual_bonus_list">Годовые бонусы</string>
@@ -578,8 +578,8 @@
     <string name="tax_thershold_native_new">%s (новый)</string>
     <string name="tax_thershold_native_new_description">Налоги будут рассчитываться в соответствии с новым налоговым законодательством с 1 октября 2018 г</string>
     <string name="tax_threshold">Безналоговый порог</string>
-    <string name="tax_title_primary" />
-    <string name="tax_title_secondary" />
+    <string name="tax_title_primary"/>
+    <string name="tax_title_secondary"/>
     <string name="tax_total_insurance_provident_fund">Страхование и жилищный фонд</string>
     <string name="tax_unemployment">Безработица</string>
     <string name="tax_update_time_format">Данные предоставлены HeXun (%s)</string>
@@ -628,7 +628,7 @@
     <string name="thursday_shortest">Чт</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
-    <string name="times" />
+    <string name="times"/>
     <string name="title_bar">Конвертер длины</string>
     <string name="to_num">62.7</string>
     <string name="today">Сегодня</string>
@@ -995,7 +995,7 @@
     <string name="unit_per_ten_thousand">‱</string>
     <string name="unit_percentage">%</string>
     <string name="unit_pound">Фунты</string>
-    <string name="unit_times" />
+    <string name="unit_times"/>
     <string name="unit_year">Г</string>
     <string name="unit_year_format">Год %s</string>
     <string name="unit_yuan">CNY</string>
@@ -1039,7 +1039,7 @@
     <string name="xiaomi_update_dialog_message_diff">"Доступна версия %1$s
 Размер дельта обновления: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Обновление %1$s!</string>
-    <string name="year" />
+    <string name="year"/>
     <string name="yesterday">Вчера</string>
     <string name="younger_brother">Младший брат</string>
     <string name="younger_sister">Младшая сестра</string>

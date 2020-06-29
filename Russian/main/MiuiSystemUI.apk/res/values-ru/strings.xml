@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="China_Mobile">China Mobile</string>
     <string name="China_Mobile_HD">China Mobile (HD)</string>
@@ -520,11 +520,11 @@
     <string name="compat_mode_off">Растянуть на весь экран</string>
     <string name="compat_mode_on">Подогнать по размерам экрана</string>
     <string name="config_navBarLayout">налево,назад;домой;недавние,направо</string>
-    <string name="config_persistentDockedActivityIntentUri" />
+    <string name="config_persistentDockedActivityIntentUri"/>
     <string name="config_rat_2g">2G</string>
     <string name="config_rat_3g">3G</string>
     <string name="config_rat_4g">4G</string>
-    <string name="config_rat_unknown" />
+    <string name="config_rat_unknown"/>
     <string name="confirm">Понятно</string>
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить OEM разблокировку?</string>
@@ -634,8 +634,8 @@
     <string name="dock_keyguard_locked_failed_to_dock_text">Разделение экрана не работает при блокировке</string>
     <string name="dock_non_resizeble_failed_to_dock_text">Приложение не поддерживает разделение экрана.</string>
     <string name="download_lock_wallpaper">Нажмите дважды для загрузки Карусели обоев</string>
-    <string name="doze_brightness_sensor_type" />
-    <string name="doze_pickup_subtype_performs_proximity_check" />
+    <string name="doze_brightness_sensor_type"/>
+    <string name="doze_pickup_subtype_performs_proximity_check"/>
     <string name="drag_to_add_tiles">Удерживайте для добавления или изменения порядка</string>
     <string name="drag_to_remove_tiles">Перетащите сюда для удаления</string>
     <string name="drive_mode_tip">Режим \"За рулем\"</string>
@@ -895,7 +895,7 @@
     <string name="install_other_apps">Ненадежные источники</string>
     <string name="installer_cd_button_title">Установить Android File Transfer для Mac</string>
     <string name="instant_apps">Приложения с мгновенным запуском</string>
-    <string name="instant_apps_help_url" />
+    <string name="instant_apps_help_url"/>
     <string name="instant_apps_message">Открытие приложений без их установки.</string>
     <string name="instant_apps_message_with_help">Открытие приложений без их установки. Нажмите, чтобы узнать больше.</string>
     <string name="instant_apps_title">%1$s запущено</string>
@@ -1300,7 +1300,7 @@ d MMMM"</string>
     <string name="not_set">Не задано</string>
     <string name="not_support_multi_window">Приложение не поддерживает разделение экрана</string>
     <string name="notch_sos_status_bar_title">SOS</string>
-    <string name="notice_header" />
+    <string name="notice_header"/>
     <string name="notification_aggregate_text">Пометить уведомления от %1$s как неважные</string>
     <string name="notification_all_categories">Все категории</string>
     <string name="notification_app_settings">Настройка: %1$s</string>
@@ -1364,7 +1364,7 @@ d MMMM"</string>
     <string name="notification_summary_message_format">%1$s: %2$s</string>
     <string name="notification_tap_again">Нажмите еще раз для открытия</string>
     <string name="notification_template_text">" отправил уведомление. Нажмите для просмотра."</string>
-    <string name="oem_preferred_feedback_reporter" />
+    <string name="oem_preferred_feedback_reporter"/>
     <string name="oem_unlock_enable">OEM разблокировка</string>
     <string name="oem_unlock_enable_summary">Разрешить разблокировку загрузчика ОС</string>
     <string name="okay">ОК</string>
@@ -1824,7 +1824,7 @@ d MMMM"</string>
     <string name="status_bar_recent_guide_top">Сдвиньте вверх для закрытия</string>
     <string name="status_bar_recent_inspect_item_title">О приложении</string>
     <string name="status_bar_recent_memory_info1">Доступно %1$sB из %2$sB</string>
-    <string name="status_bar_recent_memory_info2" />
+    <string name="status_bar_recent_memory_info2"/>
     <string name="status_bar_recent_remove_item_title">Удалить из списка</string>
     <string name="status_bar_recording_back">Вернуться в диктофон</string>
     <string name="status_bar_recording_pause">Пауза</string>
@@ -1913,7 +1913,7 @@ d MMMM"</string>
     <string name="structure_face_unlock_not_same_person">Вы должны выполнить все шаги самостоятельно. Не меняйтесь местами ни с кем.</string>
     <string name="structure_face_unlock_really_person">Похоже, что вы заменили лицо на неживой объект.</string>
     <string name="structure_face_unlock_tof_covered">Не удалось добавить данные лица. Отодвиньтесь дальше от экрана.</string>
-    <string name="summary_empty" />
+    <string name="summary_empty"/>
     <string name="switch_bar_off">Откл</string>
     <string name="switch_bar_on">Вкл</string>
     <string name="switch_system_user">Вернуться к Первому пространству</string>
