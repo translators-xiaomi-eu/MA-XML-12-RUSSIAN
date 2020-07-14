@@ -535,7 +535,6 @@
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="content_description_menu_button">Меню</string>
-    <string name="control_quick_settings_tiles_super_save">gps,nfc,скриншот,вибрация</string>
     <string name="convert_to_fbe_warning">"Переход к шифрованию отдельных файлов.
 !!Внимание!! Все ваши данные будут удалены.
 Это пробная версия функции. Возможны ошибки.
@@ -1418,7 +1417,6 @@ d MMMM"</string>
     <string name="plugins">Плагины</string>
     <string name="pointer_location">Местоположение указателя</string>
     <string name="pointer_location_summary">Отображать в наложенном окне данные сенсора</string>
-    <string name="power_charging_duration">%1$s - %2$s до полной зарядки</string>
     <string name="power_discharge_by">Заряда (%2$s) хватит примерно до %1$s</string>
     <string name="power_discharge_by_enhanced">Заряда хватит примерно до %1$s при текущем уровне использования (%2$s)</string>
     <string name="power_discharge_by_only">Заряда хватит примерно до %1$s</string>
